@@ -1,2 +1,2 @@
-# Project
-Very First uploaded project
+# A Simple Calculator
+Unpolished code, just a working python calculator for school purposes
