@@ -1,0 +1,13 @@
+from flask import Flask
+
+app = Flask(__name__)
+
+#app.route names your route
+#example localhost/homepage
+@app.route('/')
+  def homepage():
+  return "Hello World"
+
+
+if __name__ == '__main__':
+  app.run(debug=True)
