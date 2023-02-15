@@ -1,0 +1,11 @@
+from your VS code terminal
+open terminal and type 
+pipenv install flask
+it will run and wait for it, once downloaded type
+pipenv shell
+create a server.py file
+
+put the Flask code
+once you pasted the fourline code you can type in the terminal
+python server.py (windows)
+python3 server.py(mac)
