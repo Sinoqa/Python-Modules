@@ -1,0 +1,5 @@
+zip() is a built-in Python function that takes one or more 
+iterables (such as lists, tuples, or strings) as arguments
+and returns an iterator that aggregates elements from each of the iterables.
+
+
