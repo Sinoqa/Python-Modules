@@ -16,7 +16,7 @@ def daysInMonth(year, month):
     if year_check == True:
         days_month[2] = 29
     else:
-        pass
+        days_month[2] = 28
     return days_month[month]
 
     
