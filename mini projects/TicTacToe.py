@@ -87,6 +87,7 @@ while True:
         break
     elif winner == "O":
         print("You win!")
+        break
     elif len(taken_squares) == 9:
         print("Draw")
         break
